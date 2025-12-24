@@ -1,5 +1,3 @@
-[file name]: app.py
-[file content begin]
 import os
 import logging
 import threading
@@ -1270,4 +1268,4 @@ if __name__ == '__main__':
     
     # Запускаем Flask
     app.run(host='0.0.0.0', port=port, debug=False)
-[file content end]
+
